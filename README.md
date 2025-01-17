@@ -22,4 +22,4 @@ Podcastle
 A planilha foi criada utizado o Excel e suas funcionalidades
 
 ## 🚀 Resultados
-o podcast pode ser acessado pelo link https://podcastle.ai/editor/player/6789b90ba7eb14477cd70ead
+A planilha poder ser acessada nos arquivos deste repositório
